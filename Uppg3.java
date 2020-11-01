@@ -59,7 +59,7 @@ public class Uppg3
     public static void main(String[] args)
     {
         // Example of duplicating arrays
-        //arrayDemo.example();
+        arrayDemo.example();
 
         // Call method dice() from class Simulation
         Simulation.dice();
